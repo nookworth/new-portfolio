@@ -35,7 +35,7 @@ export default function Resume() {
   }
 
   return (
-    <div className="text-center">
+    <div className="text-center d-flex flex-column align-items-middle">
       <div>
         <h2>Resume and Skills</h2>
       </div>

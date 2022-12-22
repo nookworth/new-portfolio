@@ -59,7 +59,7 @@ export default function Contact() {
   // };
 
   return (
-    <div className="text-center">
+    <div className="text-center d-flex flex-column align-items-center">
       <h2>Contact Me</h2>
       <div className="container row justify-content-center">
         <form className="form-group">
